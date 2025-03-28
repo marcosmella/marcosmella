@@ -4,7 +4,7 @@ Hi there! 👋 I'm Marcos Mella
  Based in Auckland, New Zealand 🇳🇿
 
  developing in my free time: https://sportiverse.co.nz/
- to learn more about nextjs and supabase.
+ to learn more about nextjs, supabase and vercel.
 <!--
 **marcosmella/marcosmella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
