@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 
 📧 Email: marcosmbascur@gmail.com
 
-🌐 LinkedIn
-
-💻 GitHub
+🌐 LinkedIn: https://www.linkedin.com/in/marcos-alejandro-mella-bascur/
