@@ -3,8 +3,10 @@ Hi there! 👋 I'm Marcos Mella
 🚀 Software Engineer | Full-Stack Developer | Tech Enthusiast
  Based in Auckland, New Zealand 🇳🇿
 
- developing in my free time: https://sportiverse.co.nz/
- to learn more about nextjs, supabase and vercel.
+ developing in my free time: 
+ NZ: https://sportiverse.co.nz/
+ ARG: https://sportiverse.com.ar/
+ to learn more about nextjs, supabase, vercel, cloudflare, resend.
 <!--
 **marcosmella/marcosmella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
