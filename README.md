@@ -6,7 +6,9 @@ Hi there! 👋 I'm Marcos Mella
  developing in my free time: 
  NZ: https://sportiverse.co.nz/
  ARG: https://sportiverse.com.ar/
- to learn more about nextjs, supabase, vercel, cloudflare, resend.
+ to learn more about nextjs, supabase, vercel.
+.Net C#, Azure cloud.
+
 <!--
 **marcosmella/marcosmella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
