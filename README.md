@@ -4,8 +4,7 @@ Hi there! 👋 I'm Marcos Mella
  Based in Auckland, New Zealand 🇳🇿
 
  developing in my free time: 
- NZ: https://sportiverse.co.nz/
- ARG: https://sportiverse.com.ar/
+ https://sportlevel.com/
  to learn more about nextjs, supabase, vercel.
 .Net C#, Azure cloud.
 
